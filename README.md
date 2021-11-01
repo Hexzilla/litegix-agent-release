@@ -1,2 +1,2 @@
 #Litegix Agent Release
-v1.3
+v1.4
